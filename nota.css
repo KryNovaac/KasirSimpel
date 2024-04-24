@@ -1,0 +1,35 @@
+.m1{
+    display: flex;
+    padding: 80px;
+        justify-content: center;
+    color: white;
+    margin: 120px auto;
+    width: 924px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    height:370px;
+    transition: 2s;
+}
+
+h2 {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border-radius: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 5px;
+  }
+  
+  .total {
+    font-weight: bold;
+  }
+  
+  
